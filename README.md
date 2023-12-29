@@ -10,14 +10,7 @@ The changes in "Profit/Losses" over the entire period, and then the average of t
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 Your analysis should align with the following results:
-
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $22564198
-Average Change: $-8311.11
-Greatest Increase in Profits: Aug-16 ($1862002)
-Greatest Decrease in Profits: Feb-14 ($-1825558)
+![Screenshot 2023-12-29 163603](https://github.com/thesarahcain/python-challenge/assets/148586543/d252379c-1a81-45f3-bb03-c020a9f4b103)
 
 ## PyPoll 
 ##### In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
@@ -36,16 +29,8 @@ The winner of the election based on popular vote
 
 Your analysis should align with the following results:
 
-Election Results
--------------------------
-Total Votes: 369711
--------------------------
-Charles Casper Stockham: 23.049% (85213)
-Diana DeGette: 73.812% (272892)
-Raymon Anthony Doane: 3.139% (11606)
--------------------------
-Winner: Diana DeGette
--------------------------
+![Screenshot 2023-12-29 163611](https://github.com/thesarahcain/python-challenge/assets/148586543/d0a6db45-0c48-4c5b-9f19-0191cfe8bc7c)
+
 
 Both codes should output a text file that states their results. 
 
